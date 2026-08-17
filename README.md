@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-jukantiabhilash10-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/jukantiabhilash">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhilash%20Jukanti-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jukanti%20Abhilash-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:jukantiabhilash28@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
